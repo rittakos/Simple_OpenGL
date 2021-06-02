@@ -1,0 +1,26 @@
+﻿  Skeleton.cpp
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(91,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(94,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(96,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(98,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(100,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(285,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(295,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(306,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(314,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(326,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(337,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(338,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(339,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(376,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(382,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(604,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(634,51): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  24 of 308 functions ( 7.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> C:\Grafika\GrafikaHaziCsomag\Programs\Skeleton\bin\Skeleton.exe
